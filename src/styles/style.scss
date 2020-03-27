@@ -1,0 +1,15 @@
+// Custom bootstrap variable overrides
+
+@import "./core/variables";
+@import "node_modules/bootstrap/scss/bootstrap";
+
+@import "./core/base";
+@import "./core/mixins";
+
+@import './hero';
+@import './section';
+
+.ratio-container{
+    width: 100%;
+    @include aspect-ratio(1, 1)
+}

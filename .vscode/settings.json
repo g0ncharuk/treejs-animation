@@ -1,0 +1,10 @@
+{  
+    "workbench.colorCustomizations": {
+    "statusBar.background": "#563d7c",
+    "statusBar.foreground":"#ffffff",
+    },
+    "insertnum.start": 1,
+    "prettier.printWidth": 1000,
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true
+}
