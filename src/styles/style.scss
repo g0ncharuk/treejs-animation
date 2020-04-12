@@ -9,7 +9,14 @@
 @import './hero';
 @import './section';
 
+// font-family: 'DM Sans', sans-serif;
+
 .ratio-container{
     width: 100%;
     @include aspect-ratio(1, 1)
+}
+
+.py-075 {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
 }
